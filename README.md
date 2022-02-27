@@ -1,6 +1,9 @@
 # FileShare-MERN-App
 
 #### For Visit deployed Project [Click Here ](https://myfileshareapp.netlify.app)
+## Description
+#### Upload any file and get the download link and share anywhere within 24 hrs .
+
 ## Key Features
 * Fully Responsive
 * 100MB File Limit
